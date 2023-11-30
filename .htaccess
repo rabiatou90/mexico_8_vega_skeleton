@@ -9,5 +9,3 @@
     # Rediriger l'utilisateur vers l'index du dossier public
     RewriteRule ^(.*)$ public/index.php [L]
 </IfModule>
-
-
